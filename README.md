@@ -1,2 +1,2 @@
 # website-v2
-Zuza is attempting
+Zuza is attempting to make a brand new GitHub Pages website for KMG Bielsko-Biała with a friendly CMS.
